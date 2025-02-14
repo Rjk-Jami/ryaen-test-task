@@ -21,9 +21,9 @@ const Navbar = () => {
     if (drawerInput) drawerInput.checked = false;
   };
   return (
-    <div className="navbar bg-base-100">
-      <div className="flex-1">
-        <div className="drawer drawer-end">
+    <div className="navbar bg-base-100 flex justify-between">
+      <div className="">
+        <div className="drawer drawer-end w-fit">
           <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
           <div className="drawer-content">
             {/* Page content here */}
