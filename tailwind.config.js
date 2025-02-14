@@ -14,5 +14,9 @@ module.exports = {
   plugins: [
     require('daisyui'),
   ],
+  daisyui: {
+    themes: [ 'emerald' , 'night']
+  },
+  darkMode: ['selector', '[data-theme="night"]']
 }
 
