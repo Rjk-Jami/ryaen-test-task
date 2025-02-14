@@ -1,0 +1,68 @@
+{
+    "tasks": [
+      {
+        "title": "Science Lab Report",
+        "description": "Write a lab report for the experiment.",
+        "coins": 1,
+        "date": "12-02",
+        "time": "2:32 PM",
+        "status": "pending",
+        "details": true
+      },
+      {
+        "title": "Write an Essay",
+        "description": "Write a 500-word essay on the topic of climate change. Your essay should include an introduction, three body paragraphs (discussing causes, effects, and solutions), and a conclusion.",
+        "instructions": [
+          "Use 12-point Times New Roman font",
+          "Double-space your essay",
+          "Save your essay as a PDF or Word document"
+        ],
+        "action": "Start the task"
+      },
+      {
+        "title": "Math Problems",
+        "description": "Solve algebra problems 1-5",
+        "coins": 3,
+        "date": "12-02",
+        "time": "11:59 PM",
+        "status": "pending",
+        "details": true
+      },
+      {
+        "title": "Vocabulary Quiz",
+        "description": "Study and take the quiz.",
+        "coins": 2,
+        "date": "12-02",
+        "time": "11:59 PM",
+        "status": "pending",
+        "details": true
+      },
+      {
+        "title": "Science Lab Report",
+        "description": "Write a lab report for the experiment.",
+        "coins": 1,
+        "date": "12-02",
+        "time": "2:32 PM",
+        "status": "overdue",
+        "details": true
+      },
+      {
+        "title": "Math Problems",
+        "description": "Solve algebra problems 1-5",
+        "coins": 3,
+        "date": "12-02",
+        "time": "2:32 PM",
+        "status": "completed",
+        "details": false
+      },
+      {
+        "title": "Vocabulary Quiz",
+        "description": "Study and take the quiz.",
+        "coins": 2,
+        "date": "12-02",
+        "time": "2:32 PM",
+        "status": "completed",
+        "details": false
+      }
+    ]
+  }
